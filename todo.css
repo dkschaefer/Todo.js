@@ -2,3 +2,33 @@
 	text-decoration: line-through;
 	color: gray;
 }
+
+.list {
+	position: absolute;
+	margin: 50px;
+	border: 1px solid gray;
+	height: auto;
+	width: auto;
+	padding: 1%;
+	padding-right: 300px;
+	background-image:url(http://static.tumblr.com/maopbtg/E9Bmgtoht/lines.png), url(http://static.tumblr.com/maopbtg/nBUmgtogx/paper.png);
+	background-repeat:repeat-y, repeat;
+	border-radius: 5px;
+
+}
+
+.container {
+	padding-left: 85px;
+	padding-top: -50px;
+	width: auto;
+	height: auto;
+}
+
+
+.container li {
+	margin-left: -35px;
+	padding-top: 20px;
+}
+.container span {
+	margin-left: 20px;
+}
