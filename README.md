@@ -1,8 +1,10 @@
 Todo.js
 =======
+Experiments with Angular.js
 
-A simple, dynamic, 'To-Do' list written with Angular.js.
+A simple, dynamic, 'To-Do' list:
 
-- Add your daily task list, errands, goals, etc.
+- Add your errands, goals, etc.
 - Hit +Add 
 - Check them off as you complete your goals
+- this is a simple demo app
